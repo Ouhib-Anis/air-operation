@@ -1,0 +1,3 @@
+incidents,flight_hours,accidents,total_flights,compliance_checks,total_regulations,safety_reports,resolved_issues,unplanned_maintenance,total_maintenance_hours,total_pannes,trained_crew,total_crew,passed_tests,total_tests,fatigue_reports,total_rest_hours,rest_periods,system_failures,total_systems,valid_alerts,total_alerts,identified_risks,total_risks,planed_risks,total_violations,total_hours,learned_lessons,total_recommendations,implemented_recommendations
+10,100000,2,50000,1000,1200,50,45,30,600,20,150,200,180,200,5,1000,200,3,100,90,100,20,30,25,10,50000,15,20,18
+15,200000,3,75000,1500,1800,75,68,45,900,30,225,300,270,300,8,1500,300,5,150,135,150,30,45,38,15,75000,23,30,25

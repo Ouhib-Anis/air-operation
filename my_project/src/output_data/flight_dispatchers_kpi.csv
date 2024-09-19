@@ -1,0 +1,28 @@
+Taux de ponctualité des départs,Taux de ponctualité des arrivées,Temps moyen de préparation des plans de vol,Taux d'erreurs dans les plans de vol,Réduction des coûts,Taux de retards imputables à la préparation,Taux de changements de dernière minute,Temps moyen de réponse,Satisfaction de l'équipage,Taux de conformité,Taux d'annulations dues à la planification,Taux de communications manquées ou retardées,Efficacité de la gestion du carburant
+"0    90.000000
+1    89.473684
+dtype: float64","0    85.000000
+1    84.210526
+dtype: float64","0    5.0
+1    5.0
+dtype: float64","0    0.416667
+1    0.347826
+dtype: float64","0    10.000000
+1    10.526316
+dtype: float64","0    1.000000
+1    0.842105
+dtype: float64","0    1.250000
+1    0.869565
+dtype: float64","0    5.0
+1    6.0
+dtype: float64","0    90.0
+1    90.0
+dtype: float64","0    91.666667
+1    90.909091
+dtype: float64","0    10.000000
+1     8.888889
+dtype: float64","0    4.000000
+1    3.333333
+dtype: float64","0   NaN
+1   NaN
+dtype: float64"

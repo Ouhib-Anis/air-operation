@@ -1,0 +1,3 @@
+on_time_departures,total_flights,on_time_arrivals,preparation_time,total_preparations,flight_plan_errors,total_flight_plans,pre_optimization_costs,post_optimization_costs,preparation_delays,last_minute_changes,total_responses,emergency_responses,satisfaction_scores,total_responses_scores,regulatory_compliance,total_compliances,planning_cancellations,total_cancelations,missed_communications,total_communications,fuel_saved,total_fuel
+900,1000,850,500,100,5,1200,1000000,900000,10,15,100,20,450,500,1100,1200,5,50,4,100,950
+850,950,800,450,90,4,1150,950000,850000,8,10,90,15,405,450,1000,1100,4,45,3,90,855

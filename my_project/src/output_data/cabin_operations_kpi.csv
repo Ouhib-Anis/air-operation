@@ -1,0 +1,28 @@
+Taux de satisfaction des passagers,Temps moyen de réponse,Taux de plaintes des passagers,Taux de conformité,Temps moyen d'embarquement,Temps moyen de débarquement,Taux d'incidents en cabine,Taux de satisfaction des repas et boissons,Taux de disponibilité des produits,Score de performance de l'équipage,Taux de retards causés par la cabine,Taux de conformité de la gestion des bagages à main,Pourcentage de l'équipage formé,Nombre de premiers secours administrés
+"0    85.000000
+1    81.818182
+dtype: float64","0    0.100000
+1    0.113636
+dtype: float64","0    1.000000
+1    1.090909
+dtype: float64","0    83.333333
+1    84.615385
+dtype: float64","0    0.750000
+1    0.761905
+dtype: float64","0    0.714286
+1    0.729730
+dtype: float64","0    5.000000
+1    5.454545
+dtype: float64","0    93.750000
+1    91.764706
+dtype: float64","0    95.000000
+1    89.090909
+dtype: float64","0    88.888889
+1    89.473684
+dtype: float64","0    20.000000
+1    21.818182
+dtype: float64","0    90.000000
+1    87.272727
+dtype: float64","0    75.000000
+1    76.190476
+dtype: float64",5
